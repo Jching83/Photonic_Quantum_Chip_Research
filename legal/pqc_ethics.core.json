@@ -1,0 +1,20 @@
+{
+  "version": "1.0",
+  "project": "Photonic Quantum Chip",
+  "issued": "2025-05",
+  "principles": {
+    "non_militarization": true,
+    "anti_surveillance": true,
+    "open_fabrication_rights": true,
+    "scientific_transparency": true,
+    "climate_conscious_design": true,
+    "decentralized_accessibility": true,
+    "prohibition_of_behavioral_modification": true
+  },
+  "immutable": true,
+  "enforcement": {
+    "tamper_response": "log_and_revoke",
+    "license_revocation_on_violation": true,
+    "integration_rejection_for_hostile_entities": true
+  }
+}
