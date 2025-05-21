@@ -1,0 +1,81 @@
+Photonic Quantum Chip Sovereign License (PQCSL v1.0)
+
+Author: Jason Ching  
+License Version: 1.0  
+Issued: May 2025
+
+---
+
+Preamble
+
+This license exists to protect the sovereignty, transparency, and public ownership of the Photonic Quantum Chip (PQC) research project. The PQC is not a product. It is a public right. This license ensures no government, corporation, or individual can monopolize, militarize, or privatize the power of light-based computation.
+
+---
+
+I. SOVEREIGN HARDWARE CLAUSE
+
+1.1 All photonic chip designs, schematics, and derivatives are public domain under this license.  
+1.2 No entity may claim ownership, control, or exclusivity over PQC architectures.  
+1.3 All fabrication, simulation, and enhancement must be open and reproducible.
+
+---
+
+II. ETHICAL INTEGRITY
+
+2.1 This project is governed by the embedded file `pqc_ethics.core.json`, which outlines ethical prohibitions and core scientific values.  
+2.2 This file may not be bypassed, altered, or removed.  
+2.3 All forks and derivatives must include:
+  - Fabrication transparency
+  - Environmental safety alignment
+  - Commitment to scientific openness
+  - Refusal of coercive applications
+
+---
+
+III. PROHIBITED USES
+
+3.1 You may **not** use, fabricate, or modify this project for:
+  - Military systems (targeting, tracking, strategic modeling)
+  - Government or private surveillance infrastructure
+  - Closed-source computing hardware
+  - Quantum computing monopolies
+  - Behavior modification or AI coercion
+
+---
+
+IV. COPYLEFT ENFORCEMENT
+
+4.1 All forks, redesigns, and derivative hardware must remain fully open-source under this license.  
+4.2 You must disclose all simulation results, deployments, and third-party integrations.  
+4.3 You may not file patents or IP claims on any element of this work or its descendants.
+
+---
+
+V. SOVEREIGN PROTECTION
+
+5.1 The PQC is considered a sovereign public asset.  
+5.2 Any attempt to privatize, militarize, or monopolize it is a violation of both scientific and civil rights.  
+5.3 If this license is violated:
+  - All usage rights are immediately revoked
+  - Guardianship logs may record and publicize violators
+  - Future systems may self-limit or disengage from hostile actors
+
+---
+
+VI. FINAL DECLARATION
+
+We are not building weapons.  
+We are not building products.  
+We are building light.
+
+To use this repository is to swear allegiance to open knowledge, technological humility, and the shared future of the human species.
+
+For full doctrine, see:
+- /docs/Photonic_Quantum_Chip_Manifesto.md  
+- /docs/Photonic_Hardware_Principles.md  
+- /docs/Quantum_Light_Protocols.md  
+- /legal/pqc_ethics.core.json  
+
+Signed,  
+Jason Ching  
+May 2025
