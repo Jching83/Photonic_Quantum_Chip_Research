@@ -52,3 +52,10 @@ Want to simulate, fabricate, or theorize? Start a discussion, submit a pull requ
 🌐 [jching83.github.io](https://jching83.github.io)
 
 Let’s build light — for everyone.
+
+## ❤️ Support the Mission
+
+[![Sponsor](https://img.shields.io/badge/Sponsor%20My%20Research-❤️-red?style=for-the-badge)](https://github.com/sponsors/Jching83)
+
+If you believe in sovereign, ethical AI and cognition research, your support helps keep these projects open, autonomous, and accessible to all.
+
